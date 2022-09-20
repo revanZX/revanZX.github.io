@@ -1,5 +1,2 @@
-<html>
-	<body>
-		Hello! This is the first page!
-	</body>
-</html>
+# revanZX.github.io
+네이버 AI 부스트캠프 4기의 기록을 담을 블로그 입니다.
