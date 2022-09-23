@@ -23,8 +23,6 @@ timezone: Asia/Seoul
 
 title: revanZX                     # the main title
 
-markdown : kramdown
-
 tagline: 더 좋은 부품<br>더 빠른 컴퓨터<br>for Gamer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
