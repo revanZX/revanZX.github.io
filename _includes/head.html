@@ -6,9 +6,9 @@
   
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
 
   <!-- Allow having a localized datetime different from the appearance language -->
   {% if site.prefer_datetime_locale %}
